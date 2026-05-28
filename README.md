@@ -1,5 +1,5 @@
 Advanced JS Counter 🚀
-![Preview](jsCounter)
+![jsCounter Preview](jsCounter.png)
 An interactive and modern JavaScript Counter Application with an animated live background, glowing UI effects, smooth transitions, and responsive glassmorphism design.
 
 🌟 Features
